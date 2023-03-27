@@ -1,0 +1,9 @@
+.title{
+    background-color: yellow;
+}
+.p1{border: 3px solid rgb(78, 8, 22); color: rgb(184, 51, 51);}
+span{
+    background-color: blue;
+}
+.p2,.p4{background-color: green;}
+.p3{color: brown;}
